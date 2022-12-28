@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify8f70f5d45c884-staging-83104-authRole",
+      "UnauthRoleArn": "arn:aws:iam::563920111308:role/amplify-amplify8f70f5d45c884-staging-83104-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::563920111308:role/amplify-amplify8f70f5d45c884-staging-83104-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amplify8f70f5d45c884-staging-83104-deployment",
+      "UnauthRoleName": "amplify-amplify8f70f5d45c884-staging-83104-unauthRole",
+      "StackName": "amplify-amplify8f70f5d45c884-staging-83104",
+      "StackId": "arn:aws:cloudformation:us-west-2:563920111308:stack/amplify-amplify8f70f5d45c884-staging-83104/f854c520-8689-11ed-9e2a-0a942182bd63",
+      "AmplifyAppId": "d1kspde0x9isbn"
+    },
+    "categories": {
+      "auth": {
+        "onlinetutoring20cfa71d": {}
+      }
+    }
+  }
+}
