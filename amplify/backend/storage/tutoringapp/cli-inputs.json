@@ -1,0 +1,14 @@
+{
+  "resourceName": "tutoringapp",
+  "policyUUID": "ead0c08f",
+  "bucketName": "onlinetutoring1793dccdcd9a429bb2925d01a764d8db",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
